@@ -1,0 +1,24 @@
+body{
+    background: #FFD9E1;
+}
+p{
+    font-size: 40px;
+    font-family: HELLO JUCKY;
+    text-align: center;
+    color: #000; 
+    background: #FAB8CB;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 23px;
+}
+center{
+    font-family:Luar Galaxy;
+      font-size: 30px;  
+    color: #000;
+    width: 900px;
+    background: #FFA0CB;
+    padding: 50px;
+    margin: auto;
+    margin-top: 40px;
+    border-radius: 23px;
+}
